@@ -87,7 +87,7 @@ Now it's important that you **restart the IDE** manually to complete the procedu
 
 #### Step 4: Colors and Editor Font
 
-To have a more 'modern' look, make these changes in the IDE options (*Tools->Options* or *Shift+Ctrl+O*)
+To have a more 'modern' look, apply these changes to the IDE options (*Tools->Options* or *Shift+Ctrl+O*)
 
 - *Display* -> *Default editor font* := *Consolas*; Editor font size := 10.
 - You can move the right gutter to *120*, but that's my personal preference.
