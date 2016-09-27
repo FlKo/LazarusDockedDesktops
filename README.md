@@ -1,11 +1,14 @@
-# Lazarus...*Docked*...Desktops
+## Lazarus...*Docked*...Desktops
 
-### Desktop configuration files for Lazarus IDE that try to resemble the 'look'n'feel' of Embarcadero™ RAD Studio™.
+
+#### Desktop configuration files for Lazarus IDE that try to resemble the 'look'n'feel' of Embarcadero™ RAD Studio™.
+
+---
 
 For all those who ever wanted "their" Lazarus to look and behave close to the latest releases of Delphi™ / C++ Builder™
 but gave up because of some very annoying bugs, here comes a solution: 
 
-#### Preconfigured Desktop Files: The Lazarus...*Docked*...Desktops.
+**Preconfigured Desktop Files: The Lazarus...*Docked*...Desktops.**
 
 So what do we need?
 - A computer ;-)
