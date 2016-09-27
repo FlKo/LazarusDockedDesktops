@@ -1,7 +1,7 @@
 ## Lazarus...*Docked*...Desktops
 
 
-#### Desktop configuration files for Lazarus IDE that try to resemble the 'look'n'feel' of Embarcadero™ RAD Studio™.
+#### Desktop configuration files for Lazarus IDE that try to resemble the 'Look'n'Feel' of Embarcadero™ RAD Studio™.
 
 ---
 
