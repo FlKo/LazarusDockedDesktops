@@ -5,12 +5,12 @@
 
 ---
 
-![16_install](https://cloud.githubusercontent.com/assets/22365547/18917202/5c08069a-8597-11e6-9ec5-a185cf467091.png)
-
 For all those who ever wanted "their" Lazarus to look and behave close to the latest releases of Delphi™ / C++ Builder™
 but gave up because of some very annoying bugs, here comes a solution: 
 
 **Preconfigured Desktop Files: The Lazarus...*Docked*...Desktops.**
+![16_install](https://cloud.githubusercontent.com/assets/22365547/18917202/5c08069a-8597-11e6-9ec5-a185cf467091.png)
+
 
 So what do we need?
 - A computer ;-)
