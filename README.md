@@ -93,7 +93,7 @@ Now it's important that you **restart the IDE** manually to complete the procedu
 
 To have a more 'modern' look, apply these changes to the IDE options (*Tools->Options* or *Shift+Ctrl+O*)
 
-- *Display* -> *Default editor font* := *Consolas*; Editor font size := 10.
+- *Display* -> *Default editor font* := *Consolas* (if you are on Windows™); Editor font size := 10.
 - You can move the right gutter to *120*, but that's my personal preference.
 
 ![14_install](https://cloud.githubusercontent.com/assets/22365547/18889777/bdfa47da-84fe-11e6-9e16-1b4a13a2852c.png)
