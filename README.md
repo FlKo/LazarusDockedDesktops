@@ -44,7 +44,7 @@ It is time to install the second package. Click on *Open Package File (.lpk) ...
 
 ![04_install](https://cloud.githubusercontent.com/assets/22365547/18887725/986ff734-84f5-11e6-88e1-449e9a975037.png)
 
-Browse to */components/sparta/dockedformeditor/* within your Lazarus home directory and open *sparta_dockedformeditor*
+Browse to */components/sparta/dockedformeditor/* within your Lazarus home directory and open *sparta_dockedformeditor.lpk*.
 
 ![05_install](https://cloud.githubusercontent.com/assets/22365547/18887727/9872b2da-84f5-11e6-840a-1f680303f874.png)
 
@@ -60,8 +60,8 @@ Confirm the *Rebuild Lazarus?* dialog and wait a second time for the IDE to re-c
 
 #### Step 3: Importing the *Lazarus...Docked...Desktops*
 
-After the restart of the IDE it looks...hmm...scary. But we will now fix that. You can try to rearrange the windows for yourself as you like, but prepare yourself for some unlovely bugs.
-It's better load the prepared laylouts.
+After the restart of the IDE it looks...hmm...scary. But we will now fix that. You can try to rearrange the windows for yourself as you like, but be preparedfor some unlovely bugs.
+It's better to load the prepared laylouts.
 
 Select *Desktops* in the *Tools* menu.
 
@@ -81,7 +81,7 @@ Confirm the next *Desktop name* dialog with OK and close *Manage desktops*.
 
 ![12_install](https://cloud.githubusercontent.com/assets/22365547/18887735/98951d84-84f5-11e6-906d-1a57ac418dc5.png)
 
-Now it's important that you **restart the IDE** manually to complete the procedure.
+Now it's important that you **restart the IDE** manually to complete the procedure (sometimes it seems to be necessary to restart Lazarus **twice**).
 
 ---
 
@@ -97,6 +97,10 @@ To have a more 'modern' look, apply these changes to the IDE options (*Tools->Op
 - *Display* -> *Colors* -> Select *Delphi* theme.
 
 ![13_install](https://cloud.githubusercontent.com/assets/22365547/18889778/bdfaabc6-84fe-11e6-83ba-fc7951c66f5d.png)
+
+- *Environment* -> *Object Inspector* -> Select *Use default Delphi settings* and then set the checkboxes as shown.
+
+![15_install](https://cloud.githubusercontent.com/assets/22365547/18916865/2a1bf6f6-8596-11e6-9aeb-db4d41f89e8d.png)
 
 ---
 
