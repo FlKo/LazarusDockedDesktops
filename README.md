@@ -79,12 +79,12 @@ Browse to the folder in which the clone of this repository resides and open one 
 
 ![10_install](https://cloud.githubusercontent.com/assets/22365547/18887733/988dfda6-84f5-11e6-86b2-069e2131d65e.png)
 
-Confirm the next *Desktop name* dialog with OK, then select the desktop *debug docked* and click on the green bug symbol on the right to toggle it as the debug desktop. Finally, close *Manage desktops*.
+Confirm the next *Desktop name* dialog with OK.
 
 ![11_install](https://cloud.githubusercontent.com/assets/22365547/18887734/988ff534-84f5-11e6-8ef7-345fd59d2f7e.png)
 
 ![12_install](https://cloud.githubusercontent.com/assets/22365547/18887735/98951d84-84f5-11e6-906d-1a57ac418dc5.png)
-
+After that, select the desktop *debug docked* and click on the green bug symbol on the right to toggle it as the debug desktop. Finally, close *Manage desktops*.
 Now it's important that you **restart the IDE** manually to complete the procedure (sometimes it seems to be necessary to restart Lazarus **twice**).
 
 ---
