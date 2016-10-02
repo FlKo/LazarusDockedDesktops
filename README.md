@@ -1,11 +1,18 @@
-# Lazarus...*Docked*...Desktops
+## Lazarus...*Docked*...Desktops
 
-### Desktop configuration files for Lazarus IDE that try to resemble the 'look'n'feel' of Embarcadero™ RAD Studio™.
+
+#### Desktop configuration files for Lazarus IDE that try to resemble the 'Look'n'Feel' of Embarcadero™ RAD Studio™.
+
+---
 
 For all those who ever wanted "their" Lazarus to look and behave close to the latest releases of Delphi™ / C++ Builder™
 but gave up because of some very annoying bugs, here comes a solution: 
 
-#### Preconfigured Desktop Files: The Lazarus...*Docked*...Desktops.
+**Preconfigured Desktop Files: The Lazarus...*Docked*...Desktops.**
+
+![16_install](https://cloud.githubusercontent.com/assets/22365547/18917202/5c08069a-8597-11e6-9ec5-a185cf467091.png)
+
+---
 
 So what do we need?
 - A computer ;-)
@@ -37,11 +44,11 @@ Now wait for the IDE to re-compile and restart. This may take some time so be pa
 
 #### Step 2: Installation of the *sparta_DockedFormEditor* package
 
-It is time to install the second package. Click on *Open Package File (.lpk) ...* in the *Package* menu.
+It is time to install the second package. You can try it in the same way as described in step 1, if the component *sparta_dockedformeditor* is being listed in the ListView. If not, click on *Open Package File (.lpk) ...* in the *Package* menu.
 
 ![04_install](https://cloud.githubusercontent.com/assets/22365547/18887725/986ff734-84f5-11e6-88e1-449e9a975037.png)
 
-Browse to */components/sparta/dockedformeditor/* within your Lazarus home directory and open *sparta_dockedformeditor*
+Browse to */components/sparta/dockedformeditor/* within your Lazarus home directory and open *sparta_dockedformeditor.lpk*.
 
 ![05_install](https://cloud.githubusercontent.com/assets/22365547/18887727/9872b2da-84f5-11e6-840a-1f680303f874.png)
 
@@ -57,8 +64,8 @@ Confirm the *Rebuild Lazarus?* dialog and wait a second time for the IDE to re-c
 
 #### Step 3: Importing the *Lazarus...Docked...Desktops*
 
-After the restart of the IDE it looks...hmm...scary. But we will now fix that. You can try to rearrange the windows for yourself as you like, but prepare yourself for some unlovely bugs.
-It's better load the prepared laylouts.
+After the restart of the IDE it looks...hmm...scary. But we will now fix that. You can try to rearrange the windows for yourself as you like, but be prepared for some unlovely bugs.
+It's better to load the prepared laylouts.
 
 Select *Desktops* in the *Tools* menu.
 
@@ -78,15 +85,17 @@ Confirm the next *Desktop name* dialog with OK.
 
 ![12_install](https://cloud.githubusercontent.com/assets/22365547/18887735/98951d84-84f5-11e6-906d-1a57ac418dc5.png)
 
-Now it's important that you **restart the IDE** manually to complete the procedure.
+After that, select the desktop *debug docked* and click on the green bug symbol on the right to toggle it as the debug desktop. Finally, close *Manage desktops*.
+
+Now it is important that you **restart the IDE** manually to complete the procedure (sometimes it seems to be necessary to restart Lazarus **twice**).
 
 ---
 
 #### Step 4: Colors and Editor Font
 
-To have a more 'modern' look, make these changes in the IDE options (*Tools->Options* or *Shift+Ctrl+O*)
+To have a more 'modern' look, apply these changes to the IDE options (*Tools->Options* or *Shift+Ctrl+O*)
 
-- *Display* -> *Default editor font* := *Consolas*; Editor font size := 10.
+- *Display* -> *Default editor font* := *Consolas* (if you are on Windows™); Editor font size := 10.
 - You can move the right gutter to *120*, but that's my personal preference.
 
 ![14_install](https://cloud.githubusercontent.com/assets/22365547/18889777/bdfa47da-84fe-11e6-9e16-1b4a13a2852c.png)
@@ -95,9 +104,17 @@ To have a more 'modern' look, make these changes in the IDE options (*Tools->Opt
 
 ![13_install](https://cloud.githubusercontent.com/assets/22365547/18889778/bdfaabc6-84fe-11e6-83ba-fc7951c66f5d.png)
 
+- *Environment* -> *Object Inspector* -> Select *Use default Delphi settings* and then set the checkboxes as shown.
+
+![15_install](https://cloud.githubusercontent.com/assets/22365547/18916865/2a1bf6f6-8596-11e6-9aeb-db4d41f89e8d.png)
+
+- *Environment* -> *Messages Window* -> Click on *Pastel Colors*.
+
+![19_install](https://cloud.githubusercontent.com/assets/22365547/19022722/e506f966-88de-11e6-8b65-fb443383369c.png)
+
 ---
 
-Before you now finally start, don't forget to take a look at these incredible screenshots below:
+Before you now finally start, don't forget to take a look at these "incredible" screenshots below:
 
 ##### The Embedded Form Editor
 
