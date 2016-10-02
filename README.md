@@ -44,7 +44,7 @@ Now wait for the IDE to re-compile and restart. This may take some time so be pa
 
 #### Step 2: Installation of the *sparta_DockedFormEditor* package
 
-It is time to install the second package. Click on *Open Package File (.lpk) ...* in the *Package* menu.
+It is time to install the second package. You can try it in the same way as described in step 1, if the component *sparta_dockedformeditor* is being listed in the ListView. If not, click on *Open Package File (.lpk) ...* in the *Package* menu.
 
 ![04_install](https://cloud.githubusercontent.com/assets/22365547/18887725/986ff734-84f5-11e6-88e1-449e9a975037.png)
 
@@ -64,7 +64,7 @@ Confirm the *Rebuild Lazarus?* dialog and wait a second time for the IDE to re-c
 
 #### Step 3: Importing the *Lazarus...Docked...Desktops*
 
-After the restart of the IDE it looks...hmm...scary. But we will now fix that. You can try to rearrange the windows for yourself as you like, but be preparedfor some unlovely bugs.
+After the restart of the IDE it looks...hmm...scary. But we will now fix that. You can try to rearrange the windows for yourself as you like, but be prepared for some unlovely bugs.
 It's better to load the prepared laylouts.
 
 Select *Desktops* in the *Tools* menu.
@@ -108,7 +108,7 @@ To have a more 'modern' look, apply these changes to the IDE options (*Tools->Op
 
 ---
 
-Before you now finally start, don't forget to take a look at these incredible screenshots below:
+Before you now finally start, don't forget to take a look at these "incredible" screenshots below:
 
 ##### The Embedded Form Editor
 
