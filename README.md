@@ -110,7 +110,7 @@ To have a more 'modern' look, apply these changes to the IDE options (*Tools->Op
 
 - *Environment* -> *Messages Window* -> Click on *Pastel Colors*.
 
-![19_install](https://cloud.githubusercontent.com/assets/22365547/19022683/19281a46-88de-11e6-86fb-f06e0cd18c19.png)
+![19_install](https://cloud.githubusercontent.com/assets/22365547/19022722/e506f966-88de-11e6-8b65-fb443383369c.png)
 
 ---
 
