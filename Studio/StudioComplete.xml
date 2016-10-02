@@ -3,23 +3,22 @@
   <Desktops Count="2">
     <Desktop1 Name="default docked" DockMaster="TIDEAnchorDockMaster">
       <Desktop Version="2" FormIdCount="37">
-        <FormIdList a1="MainIDE" a2="MacroListView" a3="SourceNotebook" a4="ObjectInspectorDlg" a5="MessagesView" a6="AnchorEditor" a7="AnchorDockSite10" a8="CodeExplorerView" a9="PackageEditor_sparta_DockedFormEditor" a10="AnchorDockSite7" a11="AnchorDockSite6" a12="ProjectInspector" a13="CallStack" a14="Watches" a15="Locals" a16="BreakPoints" a17="DbgOutput" a18="DbgEvents" a19="Threads" a20="ComponentList" a21="PseudoTerminal" a22="EvaluateModify" a23="Registers" a24="Assembler" a25="Inspect" a26="DbgHistory" a27="UnitDependencies" a28="FPDocEditor" a29="ClipBrdHistory" a30="PkgGraphExplorer" a31="EditorFileManager" a32="SearchResults" a33="TabOrderEditor" a34="CodeBrowser" a35="IssueBrowser" a36="JumpHistory" a37="PackageEditor_LCL"/>
+        <FormIdList a1="MainIDE" a2="SourceNotebook" a3="MacroListView" a4="ObjectInspectorDlg" a5="MessagesView" a6="AnchorEditor" a7="AnchorDockSite10" a8="CodeExplorerView" a9="PackageEditor_sparta_DockedFormEditor" a10="AnchorDockSite7" a11="AnchorDockSite6" a12="ProjectInspector" a13="CallStack" a14="Watches" a15="Locals" a16="BreakPoints" a17="DbgOutput" a18="DbgEvents" a19="Threads" a20="ComponentList" a21="PseudoTerminal" a22="EvaluateModify" a23="Registers" a24="Assembler" a25="Inspect" a26="DbgHistory" a27="UnitDependencies" a28="FPDocEditor" a29="ClipBrdHistory" a30="PkgGraphExplorer" a31="EditorFileManager" a32="SearchResults" a33="TabOrderEditor" a34="CodeBrowser" a35="IssueBrowser" a36="JumpHistory" a37="PackageEditor_LCL"/>
       </Desktop>
       <MainIDE>
         <CustomPosition Width="1600" Height="847"/>
         <WindowState Value="Maximized"/>
         <Visible Value="True"/>
       </MainIDE>
+      <SourceNotebook>
+        <CustomPosition Left="349" Top="73" Width="973" Height="684"/>
+        <Visible Value="True"/>
+      </SourceNotebook>
       <MacroListView>
         <CustomPosition Left="390" Top="249" Width="424" Height="365"/>
       </MacroListView>
-      <SourceNotebook>
-        <CustomPosition Left="349" Top="73" Width="1018" Height="684"/>
-        <Visible Value="True"/>
-      </SourceNotebook>
       <ObjectInspectorDlg>
         <CustomPosition Left="34" Top="278" Width="294" Height="479"/>
-        <Visible Value="True"/>
       </ObjectInspectorDlg>
       <MessagesView>
         <CustomPosition Left="4" Top="785" Width="1592" Height="81"/>
@@ -160,18 +159,18 @@
                 <Bounds Top="30" Width="1600" Height="797" SplitterPos="28"/>
                 <Anchors Align="Bottom"/>
                 <Item1 Name="SourceNotebook" Type="Control">
-                  <Bounds Left="315" Width="1035" Height="684"/>
+                  <Bounds Left="315" Width="990" Height="684"/>
                   <Anchors Left="AnchorDockSplitter4" Right="AnchorDockSplitter3" Bottom="AnchorDockSplitter2"/>
                 </Item1>
                 <Item2 Name="AnchorDockSplitter2" Type="SplitterHorizontal">
                   <Bounds Top="684" Width="1600" Height="4"/>
                 </Item2>
                 <Item3 Name="AnchorDockSplitter3" Type="SplitterVertical">
-                  <Bounds Left="1350" Width="4" Height="684"/>
+                  <Bounds Left="1305" Width="4" Height="684"/>
                   <Anchors Bottom="AnchorDockSplitter2"/>
                 </Item3>
                 <Item4 Name="ProjectInspector" Type="Control">
-                  <Bounds Left="1354" Width="246" Height="336"/>
+                  <Bounds Left="1309" Width="291" Height="336"/>
                   <Anchors Left="AnchorDockSplitter3" Bottom="AnchorDockSplitter5"/>
                   <Header Position="top"/>
                 </Item4>
@@ -179,7 +178,7 @@
                   <Bounds Left="311" Width="4" Height="684"/>
                   <Anchors Bottom="AnchorDockSplitter2"/>
                 </Item5>
-                <Item6 Name="AnchorDockSite9" Type="Pages" ChildCount="2">
+                <Item6 Name="AnchorDockSite17" Type="Pages" ChildCount="2">
                   <Bounds Top="688" Width="1600" Height="109"/>
                   <Anchors Top="AnchorDockSplitter2"/>
                   <Item1 Name="MessagesView" Type="Control">
@@ -192,12 +191,12 @@
                   </Item2>
                 </Item6>
                 <Item7 Name="ComponentList" Type="Control">
-                  <Bounds Left="1354" Top="340" Width="246" Height="344"/>
+                  <Bounds Left="1309" Top="340" Width="291" Height="344"/>
                   <Anchors Left="AnchorDockSplitter3" Top="AnchorDockSplitter5" Bottom="AnchorDockSplitter2"/>
                   <Header Position="top"/>
                 </Item7>
                 <Item8 Name="AnchorDockSplitter5" Type="SplitterHorizontal">
-                  <Bounds Left="1354" Top="336" Width="246" Height="4"/>
+                  <Bounds Left="1309" Top="336" Width="291" Height="4"/>
                   <Anchors Left="AnchorDockSplitter3"/>
                 </Item8>
                 <Item9 Name="ObjectInspectorDlg" Type="Control">
@@ -226,39 +225,50 @@
         <FormIdList a1="MainIDE" a2="MacroListView" a3="SourceNotebook" a4="ObjectInspectorDlg" a5="MessagesView" a6="DbgEvents" a7="AnchorEditor" a8="AnchorDockSite7" a9="AnchorDockSite6" a10="ProjectInspector" a11="CallStack" a12="Watches" a13="Locals" a14="BreakPoints" a15="DbgOutput" a16="Threads" a17="ComponentList" a18="PseudoTerminal" a19="EvaluateModify" a20="Registers" a21="Assembler" a22="Inspect" a23="DbgHistory" a24="UnitDependencies" a25="CodeExplorerView" a26="FPDocEditor" a27="ClipBrdHistory" a28="PkgGraphExplorer" a29="EditorFileManager" a30="SearchResults" a31="TabOrderEditor" a32="CodeBrowser" a33="IssueBrowser" a34="JumpHistory" a35="AnchorDockSite10" a36="PackageEditor_sparta_DockedFormEditor" a37="PackageEditor_LCL"/>
       </Desktop>
       <MainIDE>
+        <Caption Value="MainIDE"/>
         <CustomPosition Width="1600" Height="847"/>
         <WindowState Value="Maximized"/>
         <Visible Value="True"/>
       </MainIDE>
       <MacroListView>
+        <Caption Value="MacroListView"/>
         <CustomPosition Left="390" Top="249" Width="424" Height="365"/>
       </MacroListView>
       <SourceNotebook>
+        <Caption Value="SourceNotebook"/>
         <CustomPosition Left="350" Top="73" Width="972" Height="543"/>
         <Visible Value="True"/>
       </SourceNotebook>
       <ObjectInspectorDlg>
+        <Caption Value="ObjectInspectorDlg"/>
         <CustomPosition Left="34" Width="294" Height="684"/>
       </ObjectInspectorDlg>
       <MessagesView>
+        <Caption Value="MessagesView"/>
         <CustomPosition Width="1592" Height="81"/>
       </MessagesView>
       <DbgEvents>
+        <Caption Value="DbgEvents"/>
         <CustomPosition Left="4" Top="644" Width="1592" Height="222"/>
       </DbgEvents>
       <AnchorEditor>
+        <Caption Value="AnchorEditor"/>
         <CustomPosition Left="284" Top="281" Width="583" Height="297"/>
       </AnchorEditor>
       <AnchorDockSite7>
+        <Caption Value="AnchorDockSite7"/>
         <CustomPosition Left="4" Top="668" Width="1592" Height="217"/>
       </AnchorDockSite7>
       <AnchorDockSite6>
+        <Caption Value="AnchorDockSite6"/>
         <CustomPosition Left="4" Top="668" Width="1592" Height="178"/>
       </AnchorDockSite6>
       <ProjectInspector>
+        <Caption Value="ProjectInspector"/>
         <CustomPosition Left="1309" Top="107" Width="291" Height="570"/>
       </ProjectInspector>
       <CallStack>
+        <Caption Value="CallStack"/>
         <CustomPosition Left="34" Top="73" Width="287" Height="275"/>
         <Divider Count="2">
           <Item0 ID="ColumnCStackBrkPoint" Size="24"/>
@@ -266,27 +276,91 @@
         </Divider>
       </CallStack>
       <Watches>
+        <Caption Value="Watches"/>
         <CustomPosition Left="34" Top="352" Width="287" Height="136"/>
         <Divider Count="1">
           <Item0 ID="ColumnWatchExpr" Size="200"/>
         </Divider>
       </Watches>
       <Locals>
+        <Caption Value="Locals"/>
         <CustomPosition Left="34" Top="492" Width="287" Height="168"/>
       </Locals>
       <BreakPoints>
+        <Caption Value="BreakPoints"/>
         <CustomPosition Left="320" Top="842"/>
       </BreakPoints>
       <DbgOutput>
+        <Caption Value="DbgOutput"/>
         <CustomPosition Width="1592" Height="76"/>
       </DbgOutput>
       <Threads>
+        <Caption Value="Threads"/>
         <CustomPosition Left="480" Top="842"/>
       </Threads>
       <ComponentList>
+        <Caption Value="ComponentList"/>
         <CustomPosition Top="34" Width="300" Height="381"/>
       </ComponentList>
+      <PseudoTerminal>
+        <Caption Value="PseudoTerminal"/>
+      </PseudoTerminal>
+      <EvaluateModify>
+        <Caption Value="EvaluateModify"/>
+      </EvaluateModify>
+      <Registers>
+        <Caption Value="Registers"/>
+      </Registers>
+      <Assembler>
+        <Caption Value="Assembler"/>
+      </Assembler>
+      <Inspect>
+        <Caption Value="Inspect"/>
+      </Inspect>
+      <DbgHistory>
+        <Caption Value="DbgHistory"/>
+      </DbgHistory>
+      <UnitDependencies>
+        <Caption Value="UnitDependencies"/>
+      </UnitDependencies>
+      <CodeExplorerView>
+        <Caption Value="CodeExplorerView"/>
+      </CodeExplorerView>
+      <FPDocEditor>
+        <Caption Value="FPDocEditor"/>
+      </FPDocEditor>
+      <ClipBrdHistory>
+        <Caption Value="ClipBrdHistory"/>
+      </ClipBrdHistory>
+      <PkgGraphExplorer>
+        <Caption Value="PkgGraphExplorer"/>
+      </PkgGraphExplorer>
+      <EditorFileManager>
+        <Caption Value="EditorFileManager"/>
+      </EditorFileManager>
+      <SearchResults>
+        <Caption Value="SearchResults"/>
+      </SearchResults>
+      <TabOrderEditor>
+        <Caption Value="TabOrderEditor"/>
+      </TabOrderEditor>
+      <CodeBrowser>
+        <Caption Value="CodeBrowser"/>
+      </CodeBrowser>
+      <IssueBrowser>
+        <Caption Value="IssueBrowser"/>
+      </IssueBrowser>
+      <JumpHistory>
+        <Caption Value="JumpHistory"/>
+      </JumpHistory>
+      <AnchorDockSite10>
+        <Caption Value="AnchorDockSite10"/>
+      </AnchorDockSite10>
+      <PackageEditor_sparta_DockedFormEditor>
+        <Caption Value="PackageEditor_sparta_DockedFormEditor"/>
+      </PackageEditor_sparta_DockedFormEditor>
       <PackageEditor_LCL>
+        <Caption Value="PackageEditor_LCL"/>
         <CustomPosition Left="284" Top="231" Width="451" Height="455"/>
       </PackageEditor_LCL>
       <Dialogs Count="3">
