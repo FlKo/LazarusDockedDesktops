@@ -79,7 +79,7 @@ Browse to the folder in which the clone of this repository resides and open one 
 
 ![10_install](https://cloud.githubusercontent.com/assets/22365547/18887733/988dfda6-84f5-11e6-86b2-069e2131d65e.png)
 
-Confirm the next *Desktop name* dialog with OK and close *Manage desktops*.
+Confirm the next *Desktop name* dialog with OK, then select the desktop *debug docked* and click on the green bug symbol on the right to toggle it as the debug desktop. Finally, close *Manage desktops*.
 
 ![11_install](https://cloud.githubusercontent.com/assets/22365547/18887734/988ff534-84f5-11e6-8ef7-345fd59d2f7e.png)
 
