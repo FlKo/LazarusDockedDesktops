@@ -116,12 +116,14 @@ To have a more 'modern' look, apply these changes to the IDE options (*Tools->Op
 
 #### Step 5: More personal preferences
 
-The next things are my personal settings and may not be everyone's favourite. So, feel free to use it ;).
+The next things are my personal settings and may not be everyone's favourite. So feel free to use it.
 
 A very annoying thing in RAD Studio is the impossibility to prevent the cursor moving beyond the end of the line.
 In Larazus, its just an unchecking of the *Editor* -> *General* - *Caret past end of line* checkbox.
 
 ![20_install](https://cloud.githubusercontent.com/assets/22365547/19088442/6d3b0b36-8a76-11e6-9ad4-d3b081d58c66.png)
+
+---
 
 Before you now finally start, don't forget to take a look at these "incredible" screenshots below:
 
