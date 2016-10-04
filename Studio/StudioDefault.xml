@@ -3,15 +3,19 @@
   <Desktops Count="1">
     <Desktop1 Name="default docked" DockMaster="TIDEAnchorDockMaster">
       <Desktop Version="2" FormIdCount="37">
-        <FormIdList a1="MainIDE" a2="SourceNotebook" a3="MacroListView" a4="ObjectInspectorDlg" a5="MessagesView" a6="AnchorEditor" a7="AnchorDockSite10" a8="CodeExplorerView" a9="PackageEditor_sparta_DockedFormEditor" a10="AnchorDockSite7" a11="AnchorDockSite6" a12="ProjectInspector" a13="CallStack" a14="Watches" a15="Locals" a16="BreakPoints" a17="DbgOutput" a18="DbgEvents" a19="Threads" a20="ComponentList" a21="PseudoTerminal" a22="EvaluateModify" a23="Registers" a24="Assembler" a25="Inspect" a26="DbgHistory" a27="UnitDependencies" a28="FPDocEditor" a29="ClipBrdHistory" a30="PkgGraphExplorer" a31="EditorFileManager" a32="SearchResults" a33="TabOrderEditor" a34="CodeBrowser" a35="IssueBrowser" a36="JumpHistory" a37="PackageEditor_LCL"/>
+        <FormIdList a1="MainIDE" a2="MessagesView" a3="SourceNotebook" a4="MacroListView" a5="ObjectInspectorDlg" a6="AnchorEditor" a7="AnchorDockSite10" a8="CodeExplorerView" a9="PackageEditor_sparta_DockedFormEditor" a10="AnchorDockSite7" a11="AnchorDockSite6" a12="ProjectInspector" a13="CallStack" a14="Watches" a15="Locals" a16="BreakPoints" a17="DbgOutput" a18="DbgEvents" a19="Threads" a20="ComponentList" a21="PseudoTerminal" a22="EvaluateModify" a23="Registers" a24="Assembler" a25="Inspect" a26="DbgHistory" a27="UnitDependencies" a28="FPDocEditor" a29="ClipBrdHistory" a30="PkgGraphExplorer" a31="EditorFileManager" a32="SearchResults" a33="TabOrderEditor" a34="CodeBrowser" a35="IssueBrowser" a36="JumpHistory" a37="PackageEditor_LCL"/>
       </Desktop>
       <MainIDE>
         <CustomPosition Width="1600" Height="847"/>
         <WindowState Value="Maximized"/>
         <Visible Value="True"/>
       </MainIDE>
+      <MessagesView>
+        <CustomPosition Left="4" Top="803" Width="1592" Height="63"/>
+        <Visible Value="True"/>
+      </MessagesView>
       <SourceNotebook>
-        <CustomPosition Left="349" Top="73" Width="973" Height="684"/>
+        <CustomPosition Left="329" Top="73" Width="1028" Height="702"/>
         <Visible Value="True"/>
       </SourceNotebook>
       <MacroListView>
@@ -20,9 +24,6 @@
       <ObjectInspectorDlg>
         <CustomPosition Left="34" Top="278" Width="294" Height="479"/>
       </ObjectInspectorDlg>
-      <MessagesView>
-        <CustomPosition Left="4" Top="785" Width="1592" Height="81"/>
-      </MessagesView>
       <AnchorEditor>
         <CustomPosition Left="284" Top="281" Width="583" Height="297"/>
       </AnchorEditor>
@@ -159,30 +160,30 @@
                 <Bounds Top="30" Width="1600" Height="797" SplitterPos="28"/>
                 <Anchors Align="Bottom"/>
                 <Item1 Name="SourceNotebook" Type="Control">
-                  <Bounds Left="315" Width="990" Height="684"/>
+                  <Bounds Left="295" Width="1045" Height="702"/>
                   <Anchors Left="AnchorDockSplitter4" Right="AnchorDockSplitter3" Bottom="AnchorDockSplitter2"/>
                 </Item1>
                 <Item2 Name="AnchorDockSplitter2" Type="SplitterHorizontal">
-                  <Bounds Top="684" Width="1600" Height="4"/>
+                  <Bounds Top="702" Width="1600" Height="4"/>
                 </Item2>
                 <Item3 Name="AnchorDockSplitter3" Type="SplitterVertical">
-                  <Bounds Left="1305" Width="4" Height="684"/>
+                  <Bounds Left="1340" Width="4" Height="702"/>
                   <Anchors Bottom="AnchorDockSplitter2"/>
                 </Item3>
                 <Item4 Name="ProjectInspector" Type="Control">
-                  <Bounds Left="1309" Width="291" Height="336"/>
+                  <Bounds Left="1344" Width="256" Height="336"/>
                   <Anchors Left="AnchorDockSplitter3" Bottom="AnchorDockSplitter5"/>
                   <Header Position="top"/>
                 </Item4>
                 <Item5 Name="AnchorDockSplitter4" Type="SplitterVertical">
-                  <Bounds Left="311" Width="4" Height="684"/>
+                  <Bounds Left="291" Width="4" Height="702"/>
                   <Anchors Bottom="AnchorDockSplitter2"/>
                 </Item5>
-                <Item6 Name="AnchorDockSite17" Type="Pages" ChildCount="2">
-                  <Bounds Top="688" Width="1600" Height="109"/>
+                <Item6 Name="AnchorDockSite23" Type="Pages" ChildCount="2">
+                  <Bounds Top="706" Width="1600" Height="91"/>
                   <Anchors Top="AnchorDockSplitter2"/>
                   <Item1 Name="MessagesView" Type="Control">
-                    <Bounds Width="1592" Height="81"/>
+                    <Bounds Width="1592" Height="63"/>
                     <Anchors Align="Client"/>
                   </Item1>
                   <Item2 Name="DbgOutput" Type="Control">
@@ -191,26 +192,26 @@
                   </Item2>
                 </Item6>
                 <Item7 Name="ComponentList" Type="Control">
-                  <Bounds Left="1309" Top="340" Width="291" Height="344"/>
+                  <Bounds Left="1344" Top="340" Width="256" Height="362"/>
                   <Anchors Left="AnchorDockSplitter3" Top="AnchorDockSplitter5" Bottom="AnchorDockSplitter2"/>
                   <Header Position="top"/>
                 </Item7>
                 <Item8 Name="AnchorDockSplitter5" Type="SplitterHorizontal">
-                  <Bounds Left="1309" Top="336" Width="291" Height="4"/>
+                  <Bounds Left="1344" Top="336" Width="256" Height="4"/>
                   <Anchors Left="AnchorDockSplitter3"/>
                 </Item8>
                 <Item9 Name="ObjectInspectorDlg" Type="Control">
-                  <Bounds Top="205" Width="311" Height="479"/>
+                  <Bounds Top="186" Width="291" Height="516"/>
                   <Anchors Top="AnchorDockSplitter6" Right="AnchorDockSplitter4" Bottom="AnchorDockSplitter2"/>
                   <Header Position="top"/>
                 </Item9>
                 <Item10 Name="CodeExplorerView" Type="Control">
-                  <Bounds Width="311" Height="201"/>
+                  <Bounds Width="291" Height="182"/>
                   <Anchors Right="AnchorDockSplitter4" Bottom="AnchorDockSplitter6"/>
                   <Header Position="top"/>
                 </Item10>
                 <Item11 Name="AnchorDockSplitter6" Type="SplitterHorizontal">
-                  <Bounds Top="201" Width="311" Height="4"/>
+                  <Bounds Top="182" Width="291" Height="4"/>
                   <Anchors Right="AnchorDockSplitter4"/>
                 </Item11>
               </Item1>
