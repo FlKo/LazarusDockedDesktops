@@ -123,6 +123,16 @@ In Larazus, its just an unchecking of the *Editor* -> *General* - *Caret past en
 
 ![20_install](https://cloud.githubusercontent.com/assets/22365547/19088442/6d3b0b36-8a76-11e6-9ad4-d3b081d58c66.png)
 
+I like a little more 'horizontal space' in my code. Pascal is a little bit too 'compact' for me (normally being a C++ programmer).
+I checked *Insert space in front of Symbol* and *Insert space after Symbol* in *Editor* -> *Codetools* -> *Space* for that reason.
+
+![21_install](https://cloud.githubusercontent.com/assets/22365547/19165164/14462dec-8c03-11e6-8cba-84b053c3a370.png)
+
+Below are some more settings I like:
+
+![22_install](https://cloud.githubusercontent.com/assets/22365547/19165166/16e3ba38-8c03-11e6-8013-68186753de38.png)
+![23_install](https://cloud.githubusercontent.com/assets/22365547/19165167/1a275d58-8c03-11e6-862a-03c6f35fa794.png)
+![24_install](https://cloud.githubusercontent.com/assets/22365547/19165169/1d0524ba-8c03-11e6-8f9a-32aaf92738b7.png)
 ---
 
 Before you now finally start, don't forget to take a look at these "incredible" screenshots below:
