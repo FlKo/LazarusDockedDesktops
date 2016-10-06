@@ -133,6 +133,8 @@ Below are some more settings I like:
 ![22_install](https://cloud.githubusercontent.com/assets/22365547/19165166/16e3ba38-8c03-11e6-8013-68186753de38.png)
 ![23_install](https://cloud.githubusercontent.com/assets/22365547/19165167/1a275d58-8c03-11e6-862a-03c6f35fa794.png)
 ![24_install](https://cloud.githubusercontent.com/assets/22365547/19165169/1d0524ba-8c03-11e6-8f9a-32aaf92738b7.png)
+![25_install](https://cloud.githubusercontent.com/assets/22365547/19166981/188ded20-8c0a-11e6-9163-1b08e4ba69bb.png)
+
 ---
 
 Before you now finally start, don't forget to take a look at these "incredible" screenshots below:
