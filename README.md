@@ -124,12 +124,12 @@ If you like to have Lazarus to automatically remove empty methods like the defau
 
 The next things are my personal settings and may not be everyone's favourite. So feel free to use it.
 
-A very annoying thing in RAD Studio is the impossibility to prevent the cursor moving beyond the end of the line.
+A very annoying thing in RAD Studio is the impossibility to prevent the cursor from moving beyond the end of the line.
 In Larazus, its just an unchecking of the *Editor* -> *General* - *Caret past end of line* checkbox.
 
 ![20_install](https://cloud.githubusercontent.com/assets/22365547/19088442/6d3b0b36-8a76-11e6-9ad4-d3b081d58c66.png)
 
-I like a little more 'horizontal space' in my code. Pascal is a little bit too 'compact' for me (normally being a C++ programmer).
+I like a little more 'horizontal space' in my code. Pascal is a little bit too 'compact' for me (coming from a C++ background).
 I checked *Insert space in front of Symbol* and *Insert space after Symbol* in *Editor* -> *Codetools* -> *Space* for that reason.
 
 ![21_install](https://cloud.githubusercontent.com/assets/22365547/19165164/14462dec-8c03-11e6-8cba-84b053c3a370.png)
