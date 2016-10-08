@@ -6,39 +6,50 @@
         <FormIdList a1="MainIDE" a2="MessagesView" a3="SourceNotebook" a4="MacroListView" a5="ObjectInspectorDlg" a6="DbgEvents" a7="AnchorEditor" a8="AnchorDockSite7" a9="AnchorDockSite6" a10="ProjectInspector" a11="CallStack" a12="Watches" a13="Locals" a14="BreakPoints" a15="DbgOutput" a16="Threads" a17="ComponentList" a18="PseudoTerminal" a19="EvaluateModify" a20="Registers" a21="Assembler" a22="Inspect" a23="DbgHistory" a24="UnitDependencies" a25="CodeExplorerView" a26="FPDocEditor" a27="ClipBrdHistory" a28="PkgGraphExplorer" a29="EditorFileManager" a30="SearchResults" a31="TabOrderEditor" a32="CodeBrowser" a33="IssueBrowser" a34="JumpHistory" a35="AnchorDockSite10" a36="PackageEditor_sparta_DockedFormEditor" a37="PackageEditor_LCL"/>
       </Desktop>
       <MainIDE>
+        <Caption Value="MainIDE"/>
         <CustomPosition Width="1600" Height="847"/>
         <WindowState Value="Maximized"/>
         <Visible Value="True"/>
       </MainIDE>
       <MessagesView>
+        <Caption Value="MessagesView"/>
         <CustomPosition Width="1592" Height="63"/>
       </MessagesView>
       <SourceNotebook>
+        <Caption Value="SourceNotebook"/>
         <CustomPosition Left="350" Top="73" Width="1007" Height="543"/>
         <Visible Value="True"/>
       </SourceNotebook>
       <MacroListView>
+        <Caption Value="MacroListView"/>
         <CustomPosition Left="390" Top="249" Width="424" Height="365"/>
       </MacroListView>
       <ObjectInspectorDlg>
+        <Caption Value="ObjectInspectorDlg"/>
         <CustomPosition Left="34" Width="294" Height="684"/>
       </ObjectInspectorDlg>
       <DbgEvents>
+        <Caption Value="DbgEvents"/>
         <CustomPosition Left="4" Top="644" Width="1592" Height="222"/>
       </DbgEvents>
       <AnchorEditor>
+        <Caption Value="AnchorEditor"/>
         <CustomPosition Left="284" Top="281" Width="583" Height="297"/>
       </AnchorEditor>
       <AnchorDockSite7>
+        <Caption Value="AnchorDockSite7"/>
         <CustomPosition Left="4" Top="668" Width="1592" Height="217"/>
       </AnchorDockSite7>
       <AnchorDockSite6>
+        <Caption Value="AnchorDockSite6"/>
         <CustomPosition Left="4" Top="668" Width="1592" Height="178"/>
       </AnchorDockSite6>
       <ProjectInspector>
+        <Caption Value="ProjectInspector"/>
         <CustomPosition Left="1309" Top="107" Width="291" Height="570"/>
       </ProjectInspector>
       <CallStack>
+        <Caption Value="CallStack"/>
         <CustomPosition Left="34" Top="73" Width="287" Height="275"/>
         <Divider Count="2">
           <Item0 ID="ColumnCStackBrkPoint" Size="24"/>
@@ -46,27 +57,91 @@
         </Divider>
       </CallStack>
       <Watches>
+        <Caption Value="Watches"/>
         <CustomPosition Left="34" Top="352" Width="287" Height="136"/>
         <Divider Count="1">
           <Item0 ID="ColumnWatchExpr" Size="200"/>
         </Divider>
       </Watches>
       <Locals>
+        <Caption Value="Locals"/>
         <CustomPosition Left="34" Top="492" Width="287" Height="168"/>
       </Locals>
       <BreakPoints>
+        <Caption Value="BreakPoints"/>
         <CustomPosition Left="320" Top="842"/>
       </BreakPoints>
       <DbgOutput>
+        <Caption Value="DbgOutput"/>
         <CustomPosition Width="1592" Height="76"/>
       </DbgOutput>
       <Threads>
+        <Caption Value="Threads"/>
         <CustomPosition Left="480" Top="842"/>
       </Threads>
       <ComponentList>
+        <Caption Value="ComponentList"/>
         <CustomPosition Top="34" Width="300" Height="381"/>
       </ComponentList>
+      <PseudoTerminal>
+        <Caption Value="PseudoTerminal"/>
+      </PseudoTerminal>
+      <EvaluateModify>
+        <Caption Value="EvaluateModify"/>
+      </EvaluateModify>
+      <Registers>
+        <Caption Value="Registers"/>
+      </Registers>
+      <Assembler>
+        <Caption Value="Assembler"/>
+      </Assembler>
+      <Inspect>
+        <Caption Value="Inspect"/>
+      </Inspect>
+      <DbgHistory>
+        <Caption Value="DbgHistory"/>
+      </DbgHistory>
+      <UnitDependencies>
+        <Caption Value="UnitDependencies"/>
+      </UnitDependencies>
+      <CodeExplorerView>
+        <Caption Value="CodeExplorerView"/>
+      </CodeExplorerView>
+      <FPDocEditor>
+        <Caption Value="FPDocEditor"/>
+      </FPDocEditor>
+      <ClipBrdHistory>
+        <Caption Value="ClipBrdHistory"/>
+      </ClipBrdHistory>
+      <PkgGraphExplorer>
+        <Caption Value="PkgGraphExplorer"/>
+      </PkgGraphExplorer>
+      <EditorFileManager>
+        <Caption Value="EditorFileManager"/>
+      </EditorFileManager>
+      <SearchResults>
+        <Caption Value="SearchResults"/>
+      </SearchResults>
+      <TabOrderEditor>
+        <Caption Value="TabOrderEditor"/>
+      </TabOrderEditor>
+      <CodeBrowser>
+        <Caption Value="CodeBrowser"/>
+      </CodeBrowser>
+      <IssueBrowser>
+        <Caption Value="IssueBrowser"/>
+      </IssueBrowser>
+      <JumpHistory>
+        <Caption Value="JumpHistory"/>
+      </JumpHistory>
+      <AnchorDockSite10>
+        <Caption Value="AnchorDockSite10"/>
+      </AnchorDockSite10>
+      <PackageEditor_sparta_DockedFormEditor>
+        <Caption Value="PackageEditor_sparta_DockedFormEditor"/>
+      </PackageEditor_sparta_DockedFormEditor>
       <PackageEditor_LCL>
+        <Caption Value="PackageEditor_LCL"/>
         <CustomPosition Left="284" Top="231" Width="451" Height="455"/>
       </PackageEditor_LCL>
       <Dialogs Count="3">
