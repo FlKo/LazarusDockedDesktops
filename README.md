@@ -15,7 +15,7 @@ but gave up because of some very annoying bugs, here comes a solution:
 Download the new [StudioPlusComplete](StudioPlus/StudioPlusComplete.xml) desktop, which is better devised and will be frequently improved.
 
 - Improved button layout in editor toolbar
-- Message window can be shrinked and maximized by sliding down with the mouse comfortably
+- Message window can be shrinked and maximized comfortably by sliding up/down with the mouse
 - Event Log, Call stack, BreakPoints, Threads, Assembler and Debug Output are now **all** selectable via tabs in Debug Desktop
 
 ---
