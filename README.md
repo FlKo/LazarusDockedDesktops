@@ -12,7 +12,7 @@ but gave up because of some very annoying bugs, here comes a solution:
 
 ## November 2016 Update: New **StudioPlus** Desktops
 
-Download the new [StudioPlusComplete](StudioPlus/StudioPlusComplete.xml) desktop, which was better devised an will be frequently improved.
+Download the new [StudioPlusComplete](StudioPlus/StudioPlusComplete.xml) desktop, which is better devised and will be frequently improved.
 
 - Improved button layout in editor toolbar
 - Message window can be shrinked and maximized by sliding down with the mouse comfortably
