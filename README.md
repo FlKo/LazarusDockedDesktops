@@ -1,8 +1,6 @@
 ## Lazarus...*Docked*...Desktops
 
-
 #### Desktop configuration files for Lazarus IDE that try to resemble the 'Look'n'Feel' of Embarcadero™ RAD Studio™.
-
 ---
 
 For all those who ever wanted "their" Lazarus to look and behave close to the latest releases of Delphi™ / C++ Builder™
@@ -10,7 +8,20 @@ but gave up because of some very annoying bugs, here comes a solution:
 
 **Preconfigured Desktop Files: The Lazarus...*Docked*...Desktops.**
 
-![16_install](https://cloud.githubusercontent.com/assets/22365547/18917202/5c08069a-8597-11e6-9ec5-a185cf467091.png)
+---
+
+## November 2016 Update: New **StudioPlus** Desktops
+
+Download the new [StudioPlusComplete](StudioPlus/StudioPlusComplete.xml) desktop, which was better devised an will be frequently improved.
+
+- Improved button layout in editor toolbar
+- Message window can be shrinked and maximized by sliding down with the mouse comfortably
+- Event Log, Call stack, BreakPoints, Threads, Assembler and Debug Output are now **all** selectable via tabs in Debug Desktop
+
+---
+
+![c1](https://cloud.githubusercontent.com/assets/22365547/20536007/9b11ada2-b0e7-11e6-88ca-a604972f1bc8.PNG)
+![c2](https://cloud.githubusercontent.com/assets/22365547/20536014/9fc2651c-b0e7-11e6-8141-9b0650fb4a68.PNG)
 
 ---
 
@@ -75,7 +86,7 @@ Now you're in the *Manage desktops* dialog. First, uncheck the option *Auto save
 
 ![09_install](https://cloud.githubusercontent.com/assets/22365547/18887732/988938ac-84f5-11e6-9a9e-c5e2c4e6bb30.png)
 
-Browse to the folder in which the clone of this repository resides and open one of the *XML* files. I recommend *StudioComplete.xml* because it includes both the *default* and the *debug* desktop.
+Browse to the folder in which the clone of this repository resides and open one of the *XML* files. I recommend *StudioPlusComplete.xml* in *StudioPlus* folder because it includes both the *default* and the *debug* desktop and is the desktop which will get updates frequently.
 
 ![10_install](https://cloud.githubusercontent.com/assets/22365547/18887733/988dfda6-84f5-11e6-86b2-069e2131d65e.png)
 
