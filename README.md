@@ -123,7 +123,7 @@ To have a more 'modern' look, apply these changes to the IDE options (*Tools->Op
 
 ![19_install](https://cloud.githubusercontent.com/assets/22365547/19022722/e506f966-88de-11e6-8b65-fb443383369c.png)
 
-If you like to have Lazarus to automatically remove empty methods like the default setting in RAD Studio, you must check
+If you like to have Lazarus to automatically remove empty methods like the default behaviour of RAD Studio, you must check
 
 - *Editor* -> *Completion and Hints* -> *Auto remove empty methods*.
 
