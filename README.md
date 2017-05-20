@@ -36,7 +36,9 @@ The instructions below may require a recent *trunk* version of Lazarus.
 
 ### ToolButton *Run without Debugging*
 
-As you can see, there's an additional **Run without Debugging** button next to the **Run** button in the IDE CoolBar. You can get this in the *IDE options* by selecting
+As you can see, there's an additional **Run without Debugging** button next to the **Run** button in the IDE CoolBar.
+
+You can get this in the *IDE options* by selecting
 
 - *Environment* -> *IDE CoolBar* -> Select the right part of the toolbar under *Add/Config/Delete Toolbar(s)* and then click *Configure*.
 
