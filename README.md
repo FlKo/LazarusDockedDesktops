@@ -49,7 +49,7 @@ You can get this in the *IDE options* by selecting
 
 ![c_a1](https://cloud.githubusercontent.com/assets/22365547/26275943/c20019fa-3d6c-11e7-8c46-6d8a5aab7035.PNG)
 
-- Now, click the *up arrow* button highted in the picture below *6x*, so the *Run without Debugging* command is placed straight above the *Run (F9)* command.
+- Now select the added command and then click the *up arrow* button highted in the picture below *6x*, so the *Run without Debugging* command is placed straight above the *Run (F9)* command.
 - Click *OK*, then click *OK* again, to close the *IDE options* window.
 
 You now have the option to run your code without invoking the debugger like in Delphi.
