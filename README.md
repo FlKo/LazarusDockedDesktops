@@ -9,6 +9,11 @@ but gave up because of some very annoying bugs, here comes a solution:
 **Preconfigured Desktop Files: The Lazarus...*Docked*...Desktops.**
 
 ---
+
+Get the [latest release here](https://github.com/FlKo/LazarusDockedDesktops/releases/latest).
+
+---
+
 - [May 2017 Update: LDDs are compatible with Lazarus 1.9.0 trunk](#may-2017-update:-ldds-are-compatible-with-lazarus-1.9.0-trunk)
 - [ToolButton *Run without Debugging*](#toolbutton-run-without-debugging)
 - [Structural highlighting](#structural-highlighting)
