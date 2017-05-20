@@ -11,7 +11,7 @@ but gave up because of some very annoying bugs, here comes a solution:
 ---
 - [May 2017 Update: LDDs are compatible with Lazarus 1.9.0 trunk](#may-2017-update:-ldds-are-compatible-with-lazarus-1.9.0-trunk)
 - [ToolButton *Run without Debugging*](#toolbutton-run-without-debugging)
-- [Structural highlighting (*Castalia* like)](#structural-highlighting-castalia-like)
+- [Structural highlighting](#structural-highlighting-)
 - [November 2016 Update: New StudioPlus Desktops](#november-2016-update:-new-studioplus-desktops)
 - [How to install](#how-to-install)
 ---
@@ -48,6 +48,8 @@ As you can see, there's an additional **Run without Debugging** button next to t
 You now have the option to run your code without invoking the debugger like in Delphi.
 
 ![c_a2](https://cloud.githubusercontent.com/assets/22365547/26275944/c206145e-3d6c-11e7-97f1-8697be510b5f.PNG)
+
+### Structural highlighting
 
 You can now also have **structural highlighting** of your code, as it is available in Delphi by default since **XE8** (or earlier via the *Castalia* plugin). For more infos about structural highlighting in Lazarus take a look [here](http://forum.lazarus-ide.org/index.php/topic,30122.0.html?PHPSESSID=eovlh2rh5jinlilruh1h4l3fm5).
 
