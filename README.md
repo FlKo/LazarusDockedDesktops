@@ -14,7 +14,7 @@ Get the [latest release here](https://github.com/FlKo/LazarusDockedDesktops/rele
 
 ---
 
-- [May 2017 Update: LDDs are compatible with Lazarus 1.9.0 trunk](#may-2017-update:-ldds-are-compatible-with-lazarus-1.9.0-trunk)
+- [May 2017 Update: LDDs are compatible with Lazarus 1.9.0 trunk](#may-2017-update-ldds-are-compatible-with-lazarus-1.9.0-trunk)
 - [ToolButton *Run without Debugging*](#toolbutton-run-without-debugging)
 - [Structural highlighting](#structural-highlighting)
 - [November 2016 Update: New StudioPlus Desktops](#november-2016-update-new-studioplus-desktops)
