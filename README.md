@@ -40,7 +40,7 @@ As you can see, there's an additional **Run without Debugging** button next to t
 
 You can get this in the *IDE options* by selecting
 
-- *Environment* -> *IDE CoolBar* -> Select the right part of the toolbar under *Add/Config/Delete Toolbar(s)* and then click *Configure*.
+- *Environment* -> *IDE CoolBar* -> Select the right part of the tool bar under *Add/Config/Delete Toolbar(s)* and then click *Configure*.
 
 ![c_a](https://cloud.githubusercontent.com/assets/22365547/26275942/c1fd3848-3d6c-11e7-8f9d-48b6d4b7f9d0.PNG)
 
