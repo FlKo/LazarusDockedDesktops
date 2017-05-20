@@ -9,6 +9,54 @@ but gave up because of some very annoying bugs, here comes a solution:
 **Preconfigured Desktop Files: The Lazarus...*Docked*...Desktops.**
 
 ---
+- [May 2017 Update: LDDs are compatible with Lazarus 1.9.0 trunk](#may-2017-update:-ldds-are-compatible-with-lazarus-1.9.0-trunk)
+- [ToolButton *Run without Debugging*](#toolbutton-run-without-debugging)
+- [November 2016 Update: New StudioPlus Desktops](#november-2016-update:-new-studioplus-desktops)
+- [How to install](#how-to-install)
+---
+
+## May 2017 Update: **LDD**s are compatible with Lazarus 1.9.0 trunk 
+
+Keep in mind: Lazarus...*Docked*...Desktops are compatible even with development versions of Lazarus and have been tested with **Lazarus 1.9.0** / **FPC 3.1.1 trunk** .
+
+The recommended installation method for latest trunk versions is via the excellent [fpcupdeluxe](https://github.com/newpascal/fpcupdeluxe) tool. 
+
+Albeit those versions may be not as stable as the *official* ones, you have may some very neat features that are not available in the *stable* builds.
+
+Here is a picture of a recent *trunk* version of Lazarus 1.9.0 with *LDD*s applied:
+
+![ide](https://cloud.githubusercontent.com/assets/22365547/26276002/13d460dc-3d6e-11e7-86b2-296fbce97f8b.PNG)
+The instructions below may require a recent *trunk* version of Lazarus.
+
+### ToolButton *Run without Debugging*
+
+As you can see, there's an additional **Run without Debugging** button next to the **Run** button in the IDE CoolBar. You can get this in the *IDE options* by selecting
+
+- *Environment* -> *IDE CoolBar* -> Select the right part of the toolbar under *Add/Config/Delete Toolbar(s)* and then click *Configure*.
+
+![c_a](https://cloud.githubusercontent.com/assets/22365547/26275942/c1fd3848-3d6c-11e7-8f9d-48b6d4b7f9d0.PNG)
+
+- Now open the node *Run menu commands* and select *Run without Debugging (Shift+Ctrl+F9)*
+- Click the *right arrow* button highlighted yellow in the following picture
+
+![c_a1](https://cloud.githubusercontent.com/assets/22365547/26275943/c20019fa-3d6c-11e7-8c46-6d8a5aab7035.PNG)
+
+- Now, click the *up arrow* button highted in the picture below *6x*, so the *Run without Debugging* command is placed straight above the *Run (F9)* command.
+- Click *OK*, then click *OK* again, to close the *IDE options* window.
+
+You now have the option to run your code without invoking the debugger like in Delphi.
+
+![c_a2](https://cloud.githubusercontent.com/assets/22365547/26275944/c206145e-3d6c-11e7-97f1-8697be510b5f.PNG)
+
+You can now also have **structural highlighting** of your code, as it is available in Delphi by default since **XE8** (or earlier via the *Castalia* plugin). For more infos about structural highlighting in Lazarus take a look [here](http://forum.lazarus-ide.org/index.php/topic,30122.0.html?PHPSESSID=eovlh2rh5jinlilruh1h4l3fm5).
+
+To enable it, open the *IDE options* and check
+
+- *Editor* -> *Display* -> *Markup and Matches* -> *Matching Keywords* -> *Outline (global)*.
+
+![c_a3](https://cloud.githubusercontent.com/assets/22365547/26275945/c206960e-3d6c-11e7-9821-6278859a0793.PNG)
+
+---
 
 ## November 2016 Update: New **StudioPlus** Desktops
 
@@ -24,6 +72,8 @@ Download the new [StudioPlusComplete](https://github.com/FlKo/LazarusDockedDeskt
 ![c2](https://cloud.githubusercontent.com/assets/22365547/20536014/9fc2651c-b0e7-11e6-8141-9b0650fb4a68.PNG)
 
 ---
+
+## How to install
 
 So what do we need?
 - A computer ;-)
