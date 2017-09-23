@@ -12,7 +12,7 @@ but gave up because of some very annoying bugs, here comes a solution:
 
 Get the [latest release here](https://github.com/FlKo/LazarusDockedDesktops/releases/latest).
 
-See here see [how it is installed into the IDE](#how-to-install)
+See here see [how to install the LDDs into the IDE](#how-to-install)
 
 ---
 
