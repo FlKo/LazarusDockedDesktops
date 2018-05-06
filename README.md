@@ -29,7 +29,7 @@ Keep in mind: Lazarus...*Docked*...Desktops are compatible even with development
 
 The recommended installation method for latest trunk versions is via the excellent [fpcupdeluxe](https://github.com/newpascal/fpcupdeluxe) tool. 
 
-Albeit those versions may be not as stable as the *official* ones, you have may some very neat features that are not available in the *stable* builds.
+Albeit those versions may be not as stable as the *official* ones, you may get some very neat features that are not available in the *stable* builds.
 
 Here is a picture of a recent *trunk* version of Lazarus 1.9.0 with *LDD*s applied:
 
